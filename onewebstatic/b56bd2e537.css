@@ -1,0 +1,12 @@
+
+        @media (max-width: 650px) { body { min-width: 'initial' } body.desktopV { min-width: 1000px } }
+        @media (min-width: 651px) { body { min-width: 1000px } body.mobileV { min-width: initial } }
+                        .bodyBackground {
+                            
+background-image:url('../____impro/1/onewebmedia/4b6c2b4d93af1f062cf9f17288e614be.gif%3Fetag=W%252F"69b53-5b11e10a"&sourceContentType=image%252Fgif');
+background-color:rgba(0,0,0,1);
+background-repeat:repeat;
+background-position:0% 0%;
+background-size:auto;
+background-attachment:scroll;
+                        }
